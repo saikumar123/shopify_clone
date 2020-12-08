@@ -1,0 +1,15 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.11.4"
+  }
+}
