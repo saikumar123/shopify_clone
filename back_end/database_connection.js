@@ -8,8 +8,6 @@ const mongoose = require("mongoose");
     useCreateIndex: true
   });
   
- // mongoose.connection();
-  
 }
 
 module.exports= mongoose_connection;
